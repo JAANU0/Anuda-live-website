@@ -1,0 +1,124 @@
+@media screen and (max-width: 767px) {
+    .phonelogo {
+        padding-right: inherit;
+        margin: inherit;
+        line-height: 53px;
+    }
+    .phone {
+        display: flex;
+        justify-content: inherit;
+    }
+    header.header-top {
+        display: none;
+    }
+    section#anudalogo {
+        display: none;
+    }
+    .connetction.photography {
+        margin: 10px 0px;
+    }
+    .connetction.people {
+        margin: 20px 0px;
+    }
+    .building h3 {
+        color: white;
+        font-size: 34px;
+        font-weight: 700;
+        line-height: 50px;
+    }
+    .connetction.bottom {
+        margin-top: 20px;
+    }
+    .top-red.consulting {
+        margin: 20px 0px;
+    }
+    .top-red.sulting {
+        margin: 20px 0px;
+    }
+    i.fa-solid.fa-quote-right {
+        position: absolute;
+        top: 0%;
+        width: 40px;
+        right: 35%;
+        background: red;
+        color: #fff;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 100%;
+    }
+    .building h3 {
+        color: white;
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 38px;
+    }
+    .stakeholderre h3 {
+        font-size: 24px;
+        font-weight: 700;
+        line-height: 38px;
+    }
+    .top-red p {
+        font-size: 12px;
+        font-weight: 400;
+        padding: 35px 0px;
+        line-height: 27px;
+    }
+    .thisvalatile {
+        text-align: center;
+        padding: 15px 0px;
+    }
+    .text h1 {
+        font-size: 26px;
+        color: #fff;
+        font-weight: 600;
+    }
+    .stakeholderre p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 25px;
+    }
+    .plafroem p {
+        font-size: 12px;
+        font-weight: 400;
+    }
+    .partnershhip p {
+        font-size: 12px;
+        font-weight: 400;
+        line-height: 25px;
+        color: #fff;
+    }
+    .connetction p {
+        font-size: 14px;
+        font-weight: 400;
+        padding-bottom: 20px;
+        line-height: 27px;
+    }
+    .thework p {
+        font-size: 12px;
+        font-weight: 400;
+        color: #fff;
+        line-height: 20px;
+        padding-top: 20px;
+        padding-bottom: 10px;
+    }
+    .thework h3 {
+        font-size: 18px;
+        font-weight: 700;
+        color: #fff;
+        text-transform: uppercase;
+    }
+    .beingseem h4 {
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 20px;
+    }
+    #footer {
+        background-color: #000;
+        margin: 0px;
+        padding: 100px 0px 10px 0px;
+    }
+}
+@media screen and (min-width: 1400px){
+
+    
+}
